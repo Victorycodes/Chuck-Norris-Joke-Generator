@@ -1,0 +1,15 @@
+.container {
+    margin: auto;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+.get-jokes {
+    background-color: white;
+    border-color: white;
+    padding: 7px 20px;
+    cursor: pointer;
+    text-align: center;
+    text-transform: uppercase;
+}
